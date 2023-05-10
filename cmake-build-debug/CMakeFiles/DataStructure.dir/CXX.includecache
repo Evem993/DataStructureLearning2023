@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/84985/CLionProjects/DataStructure/LinklistUnit/exercise.h
+
+C:/Users/84985/CLionProjects/DataStructure/LinklistUnit/p38_11.cpp
+
+C:/Users/84985/CLionProjects/DataStructure/LinklistUnit/utilities.h
+
+C:/Users/84985/CLionProjects/DataStructure/main.cpp
+iostream
+-
+LinklistUnit/utilities.h
+C:/Users/84985/CLionProjects/DataStructure/LinklistUnit/utilities.h
+LinklistUnit/exercise.h
+C:/Users/84985/CLionProjects/DataStructure/LinklistUnit/exercise.h
+
